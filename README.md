@@ -28,6 +28,7 @@ PROJECTS:
   This console application is a simple program that prompts the user to enter the current day of the week and assigns the value to a          variable of an enum data type representing the days of the week. It also includes error handling using a try/catch block to handle          incorrect input.
 
   Student Database
+  
   This console application demonstrates how to create a basic Entity Framework Code-First console application that creates a Student          database and adds one student.
 
 
